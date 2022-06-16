@@ -1,0 +1,16 @@
+{
+  "name": "mywork",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Block.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "crypto.js": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
